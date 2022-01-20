@@ -82,6 +82,7 @@ Atención: Podemos usar estos adjetivos para la música, la cocina, el cine y en
 *Utilisation du verbe naître*
 
 -Je suis né(e) à, au, en ___ (pays).
+
 -Il/Elle est né(e) à, au, en ___ (pays).
 # Ressources pour apprendre plus ! 
 Vocabulaire et exercices
