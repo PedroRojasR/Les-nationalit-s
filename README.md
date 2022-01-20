@@ -34,53 +34,38 @@ Ils sont des adjectifs pour identifier le lieu de naissance d'une personne. Par 
 | Le Venezuela | Vénézuélien | L'espagnol |
 | L'Allemagne | Allemand | L'Allemand |
 # Régles Grammaticales au fémenin
-
-| TERMINER EN -AIS + -E|
-| ------------- | ------------- | ------------- |
-| *MASCULIN*  | *FÉMININ* |
+| Régles Grammaticales |  |
+| ------------- | ------------- |
+| TERMINER EN -AIS + -E |
+| MASCULIN | FÉMININ |
 | Français | Française |
 | Anglais | Anglaise |
 | Japonais | Japonaise|
 | Sénégalais | Sénégalais |
-
-
 | TERMINER EN -OIS + -E|
-| ------------- | ------------- | ------------- |
-| *MASCULIN*  | *FÉMININ* |
+| MASCULIN  | FÉMININ |
 | Chinois | Chinoise |
 | Suédois | Suédoise |
 | Danois | Danoise |
 | Hongrois | Hongroise |
-
-
-| TERMINER EN -AIN + -E|       |
-| ------------- | ------------- | ------------- |
-| *MASCULIN*  | *FÉMININ* |
+| TERMINER EN -AIN + -E|
+| MASCULIN  | FÉMININ |
 | Américain | Américaine |
 | Mexicain | Mexicaine |
 | Marocain | Marocaine |
 | Cubain | Cubaine |
-
-
 | TERMINER EN -IEN + -NE|
-| ------------- | ------------- | ------------- |
-| *MASCULIN*  | *FÉMININ* |
+| MASCULIN  | FÉMININ |
 | Italien | Italienne | 
 | Vietnamien | Vietnamienne |
 | Norvégien | Norvégienne |
 | Tunisien | Tunisienne | 
-
-
 | MASCULIN = FÉMININ |
-| ------------- | ------------- | ------------- |
-| *MASCULIN*  | *FÉMININ* |
+| MASCULIN  | FÉMININ |
 | Belge | Belge |
 | Russe | Russe | 
-
-
 | MASCULIN = FÉMININ +-E |
-| ------------- | ------------- | ------------- |
-| *MASCULIN*  | *FÉMININ* |
+| MASCULIN  | FÉMININ |
 | Allemand | Allemande| 
 | Philippin | Philippine |
 | Espagnol | Espagnole |
